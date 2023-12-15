@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RangedWolfYt
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python And C++
   
 - 📫 How to reach me Discord 
 
